@@ -19,8 +19,8 @@ public:
   void send(string, Participant *);
   bool operator==(Participant &);
   bool operator!=(Participant &);
+  ~Participant();
 };
-
 class ChatRoom
 {
 private:
@@ -31,6 +31,7 @@ public:
   ChatRoom();
   void registration(Participant &);
   void send(string, Participant *, Participant *);
+  ~ChatRoom();
 };
 
 Participant::Participant()
@@ -81,6 +82,14 @@ bool Participant::operator!=(Participant &src)
   return !(*this == src);
 }
 
+Participant::~Participant()
+{
+  name = '\0';
+  if (room)
+    delete room;
+  room = NULL;
+}
+
 ChatRoom::ChatRoom()
 {
   participants = new Participant[100];
@@ -112,9 +121,16 @@ void ChatRoom::send(string message, Participant *from, Participant *to = NULL)
         participants[i].receive(message, from);
 }
 
+ChatRoom::~ChatRoom()
+{
+  numParticipants = 0;
+  if (participants)
+    delete participants;
+  participants = NULL;
+}
+
 int main()
 {
-
   ChatRoom chatroom;
 
   Participant beau("beau");
