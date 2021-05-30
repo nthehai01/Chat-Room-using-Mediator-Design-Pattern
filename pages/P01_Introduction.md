@@ -14,6 +14,8 @@ The Mediator contains all of the control logic for the entire system.
 
 When an existing participant needs a new rule, or a new participant is added to the system, you will know that all of the necessary logic will be added to the mediator.
 
-[Previous chapter](./P00_Problem.md "Problem")
+<br/>
+<br/>
 
-[Next chapter](./P02_Structure.md "Structure")
+[<img align="left" width="4%" src="./../assets/icon/previous.png"/>](./P00_Problem.md, "Problem")
+[<img align="right" width="4%" src="./../assets/icon/next.png"/>](./P02_Structure.md, "Structure")
