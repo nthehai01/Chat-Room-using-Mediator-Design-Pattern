@@ -8,10 +8,11 @@
         "-g",
         "${file}",
         "-o",
-        "${fileDirname}\\${fileBasenameNoExtension}.exe"
+        "${fileDirname}\\${fileBasenameNoExtension}.exe",
+        "${fileDirname}\\chatroom.cpp"
       ],
       "options": {
-        "cwd": "${workspaceFolder}"
+        "cwd": "${fileDirname}"
       },
       "problemMatcher": [
         "$gcc"
