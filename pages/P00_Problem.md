@@ -17,4 +17,4 @@ Imagine if Beau and Quincy want to add some rules about receiving messages:
   
 - When an object wants to be edited or added some rules, we must each source code of each remaining object.
 
-[Next chapter](./P01_Introduction.md, "Introduction")
+[Next chapter](./P01_Introduction.md "Introduction")
