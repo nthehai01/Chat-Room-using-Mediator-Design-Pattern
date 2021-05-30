@@ -13,7 +13,6 @@
 <img src="./../assets/img/05_Smart_Home.png"/>
 
 <br/>
-<br/>
 
 ### Airport traffic control system
 
