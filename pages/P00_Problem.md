@@ -24,5 +24,5 @@ Imagine if Beau and Quincy want to add some rules about receiving messages:
 <br/>
 <br/>
 
-[<img align="left" width="3%" src="./../assets/icon/home.png"/>](../README.md "Back to Home")
+[<img align="left" width="3%" src="./../assets/icon/home.png"/>](# "Back to Home")
 [<img align="right" width="2%" src="./../assets/icon/next.png"/>](./P01_Introduction.md "Introduction")
