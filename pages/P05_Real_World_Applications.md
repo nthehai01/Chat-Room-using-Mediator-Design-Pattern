@@ -21,7 +21,7 @@
   
 <br/>
 
-<img src="./../assets/img/05_Airport.png"/>
+<img width="60%" src="./../assets/img/05_Airport.png"/>
 
 <br/>
 
