@@ -17,5 +17,5 @@ When an existing participant needs a new rule, or a new participant is added to 
 <br/>
 <br/>
 
-[<img align="left" width="4%" src="./../assets/icon/previous.png"/>](./P00_Problem.md, "Problem")
-[<img align="right" width="4%" src="./../assets/icon/next.png"/>](./P02_Structure.md, "Structure")
+[<img align="left" width="2%" src="./../assets/icon/previous.png"/>](./P00_Problem.md "Problem")
+[<img align="right" width="3%" src="./../assets/icon/next.png"/>](./P02_Structure.md "Structure")

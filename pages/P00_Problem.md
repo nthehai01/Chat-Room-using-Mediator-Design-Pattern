@@ -10,10 +10,6 @@ Imagine if Beau and Quincy want to add some rules about receiving messages:
 - Beside that, Quincy does not want to receive any messages on the weekend. On top of that, she also hates messages with contents containing 🙂 icon.
 
 [<img src="./../assets/img/00_Problem.png"/>](#)
-<<<<<<< HEAD
-=======
-<!-- [<img align="right" width="50%" src="./../assets/img/00_Problem.png"/>](#) -->
->>>>>>> 8ec90814a6499f8e708fe76dbe10dc11ac1f752a
 
 ### ChatRoom's dilemma 
 
@@ -24,4 +20,4 @@ Imagine if Beau and Quincy want to add some rules about receiving messages:
 <br/>
 <br/>
 
-[<img align="right" width="4%" src="./../assets/icon/next.png"/>](./P01_Introduction.md, "Introduction")
+[<img align="right" width="2%" src="./../assets/icon/next.png"/>](./P01_Introduction.md "Introduction")
