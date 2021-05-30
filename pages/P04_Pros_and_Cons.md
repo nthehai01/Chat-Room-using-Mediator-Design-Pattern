@@ -14,6 +14,8 @@
 
 - Simplifies maintenance of the system by centralizing control logic.
 
+<br/>
+
 ### Drawbacks
 
 - The Mediator is commonly used to coordinate related GUI components.
