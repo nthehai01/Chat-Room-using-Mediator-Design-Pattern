@@ -8,7 +8,11 @@ When a Mediator is added to the system, all of the objects can be greatly simpli
 
 Before adding an Admin as a Mediator, all of the participants needed to know all the rules about receiving messages of each other… it accidentally makes them all tightly coupled. With the Mediator in place, the participant objects are all *completely decoupled* from each other. 
 
-![](../assets/img/01_Add_Mediator.png)
+<br/>
+
+[<img src="../assets/img/01_Add_Mediator.png"/>](#)
+
+<br/>
 
 The Mediator contains all of the control logic for the entire system.
 
