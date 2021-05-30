@@ -27,4 +27,4 @@
 <br/>
 
 [<img align="left" width="2%" src="./../assets/icon/previous.png"/>](./P03_Implementation.md "Implementation")
-[<img align="right" width="2%" src="./../assets/icon/next.png"/>](./P05_Real_World_Application.md "Real World Application")
+[<img align="right" width="2%" src="./../assets/icon/next.png"/>](./P05_Real_World_Applications.md "Real World Application")
