@@ -8,7 +8,7 @@
 
 ### Joining Chat Room
 
-- Objects of ```Participant``` class send a request to join a chat room with name *room* through the ```join``` method.
+- Objects of ```Participant``` class send a request to join a chat room with name ```room``` through the ```join``` method.
 
 
 - The request will be processed by the ```registration``` method of ```ChatRoom``` class.
@@ -43,7 +43,7 @@ void ChatRoom::registration(Participant& participant)
 ### Sending and receiving messages
 
 
-- Participant send messages with content *message* to other participants through the ```send``` method.
+- Participant send messages with content ```message``` to other participants through the ```send``` method.
 
 - When sending messages, if the sender does not specify a receiver, the messages will be sent to all participants.
 
